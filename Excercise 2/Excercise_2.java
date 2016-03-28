@@ -1,9 +1,8 @@
-import javax.swing.*;
+public class Excercise_2 
+{
 
-public class Excercise_2 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
 		Control myGUI = new Control();
 	}
 
